@@ -4,7 +4,7 @@
   </head>
   
   <body>
-      <h1> Food </h1>
-      <p> Ich liebe Essen! </p>
+      <h1> Titel </h1>
+      <p> Langer Text </p>
   </body>
 </html>
